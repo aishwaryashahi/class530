@@ -1,0 +1,11 @@
+Product, Price , Quantity, Total 
+ momo, 100, 2, 200
+ chowmein, 150, 3, 450
+Product, Price , Quantity, Total 
+ momo, 400, 2, 800
+ coke, 30, 4, 120
+ fanta, 45, 45, 2025
+Product, Price , Quantity, Total 
+ jacket, 45, 1, 45
+ ll, 56, 1, 56
+ ds, 654, 64, 41856
